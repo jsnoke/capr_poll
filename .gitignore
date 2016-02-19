@@ -3,5 +3,6 @@ data/
 *.dat
 *.npz
 *.pkl
+
 *.RData
 *.Rhistory
