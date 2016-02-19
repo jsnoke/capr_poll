@@ -1,0 +1,7 @@
+data/
+*.csv
+*.dat
+*.npz
+*.pkl
+*.RData
+*.Rhistory
